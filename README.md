@@ -12,3 +12,7 @@ Font Awesome kit code
 Commit and Add at the same time
 
     git commit -am "message"
+
+Aria-label on icons or a link img sample:
+
+ <li class="social-items"><a aria-label="address book" class="social-link" href="#"><i class="fas fa-address-book"></i></a></li>
