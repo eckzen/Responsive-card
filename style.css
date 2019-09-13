@@ -77,3 +77,16 @@ body {
 .social-link:focus {
     opacity: 1;
 }
+
+@media (min-width: 600px) {
+    .card{
+        flex-direction: row;
+    }
+    .profile-main{
+        text-align: left;
+        margin-left: 2em;
+    }
+    .profile-name::after{
+        margin-left: 0;
+    }
+}
