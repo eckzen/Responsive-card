@@ -43,8 +43,14 @@ body {
     font-size: 0.875rem;
     letter-spacing: 3px;
     color: #5bcbf0;
+    margin-bottom: 2em;
 }
 
+.profile-body{
+    font-weight: 300;
+    opacity: 0.8;
+    margin-bottom: 0;
+}
 
 .profile-image {
     border-radius: 50%;
