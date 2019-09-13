@@ -16,3 +16,5 @@ Commit and Add at the same time
 Aria-label on icons or a link img sample:
 
  <li class="social-items"><a aria-label="address book" class="social-link" href="#"><i class="fas fa-address-book"></i></a></li>
+
+The rem unit is relative to the root—or the html —element. That means that we can define a single font size on the html element and define all rem units to be a percentage of that.
